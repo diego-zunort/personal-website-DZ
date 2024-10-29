@@ -35,7 +35,7 @@ const HeroSection = () => {
                 />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          &ldquo; I do things... great things".
+          &ldquo; I do things... great things.
           </p>
           <div>
           <Link

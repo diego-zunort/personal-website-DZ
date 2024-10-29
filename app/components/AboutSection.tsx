@@ -58,9 +58,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-           I am a sophomore in UTRGV. My major is in computer Science. I've been living in 
+           I am a sophomore in UTRGV. My major is in computer Science. Ive been living in 
            the Rio Grande Valley for two years now. I have been passionate for computers and technology
-          since I was a kid, and I've started developing my skills in programming this semester.
+          since I was a kid, and Ive started developing my skills in programming this semester.
 
           
           </p>
