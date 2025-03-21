@@ -10,11 +10,11 @@ const TAB_DATA = [
       <ul className="list-disc pl-2 grid grid-cols-4 gap-4">
         <li>C++</li>
         <li>Rock climbing</li>
-        <li>Gym</li>
         <li>Cooking</li>
         <li>Drawing</li>
         <li>Tech</li>
         <li>Teamwork</li>
+        <li>Game development</li>
       </ul>
       
     ),
@@ -58,7 +58,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-           I am a sophomore in UTRGV. My major is in computer Science. Ive been living in 
+           I am a Junior in UTRGV. My major is in computer Science. Ive been living in 
            the Rio Grande Valley for two years now. I have been passionate for computers and technology
           since I was a kid, and Ive started developing my skills in programming this semester.
 
